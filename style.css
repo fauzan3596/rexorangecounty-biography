@@ -120,7 +120,6 @@ nav a:active {
             rgba(22, 22, 22, 1)), url("assets/careers-background.jpg");
     background-size: cover;
     background-position: center;
-    height: 100vh;
 }
 
 .careers-text {
